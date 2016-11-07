@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/index.xml</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Oct 2016 22:06:31 -0700</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>bloc experience</title>
+      <link>/post/bloc-experience/</link>
+      <pubDate>Mon, 31 Oct 2016 22:06:31 -0700</pubDate>
+      
+      <guid>/post/bloc-experience/</guid>
+      <description>
+
+&lt;p&gt;As many other self taught developers can attest, teaching oneself how to code can be an arduous task. There are many things to think about from the language you want to pick up, to goals you want to acheive in your journey. This post is going to touch on a bit of my coding journey, which I will likely cover in a different post, so I wanted to take the time to focus more on my time using Bloc&amp;rsquo;s Web Developer Track.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-start&#34;&gt;The Start&lt;/h2&gt;
+
+&lt;p&gt;For the past 12 months, I spent much of my coding journey utilizing resources from multiple different places:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codecademy.com/&#34;&gt;Code Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://teamtreehouse.com/&#34;&gt;TreeHouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udemy.com/the-complete-web-developer-course-2/&#34;&gt;Udemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/&#34;&gt;Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.com/&#34;&gt;FreeCodecamp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All of these options have their pros and cons in their own way and in another post, I can expand on all of these other learning options. After using these resources for a few months, I kept finding myself running into roadblocks that would significantly halt my learning progress. Whether it was an error in my code, or just a question on how I should approach a project, I wished that I had a personal resource to ask when I was stuck. The numerous google searches and stackoverflow articles could only take me so far and I was hoping to also get some perspective from another developer to learn what they do best. So thus the idea of going to one of those well talked about coding bootcamps.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-bootcamps&#34;&gt;The Bootcamps&lt;/h2&gt;
+
+&lt;p&gt;There were a lot of factors that I had to keep in mind such as time, money, value and eventual job prospects. As you can imagine there are &lt;a href=&#34;http://www.skilledup.com/articles/online-alternatives-coding-bootcamp&#34;&gt;literally tons of bootcamps out there&lt;/a&gt;. Not all bootcamps are created equal and what it really came down to for me was the affordability of the bootcamps. On a high-level overview, there are fully immersive bootcamps that are in-person, typically last about 9-12 weeks and usually require ~60hrs of work a week. On the flip-side there are online bootcamps that can be done at different paces and offer some flexibility managing the bootcamp part-time in conjunction with a full time job. I know, I know, sounds crazy right? In reality, it&amp;rsquo;s not that bad and hear&amp;rsquo;s why.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-led-me-to-choose-bloc&#34;&gt;What led me to choose Bloc&lt;/h2&gt;
+
+&lt;p&gt;Bloc had an interesting &lt;a href=&#34;https://www.bloc.io/coding-bootcamp-comparison&#34;&gt;bootcamp cost calculator&lt;/a&gt; that mentioned some of the topics above and put all of these different programs into perspective. What really put some perspective were just some estimates from some cost calculators from &lt;a href=&#34;https://www.freecodecamp.com/coding-bootcamp-cost-calculator&#34;&gt;FreeCodeCamp&lt;/a&gt; and &lt;a href=&#34;https://www.bloc.io/coding-bootcamp-calculator&#34;&gt;Bloc&lt;/a&gt;, just how much I was loosing in &amp;ldquo;missed wages&amp;rdquo;. Living in &lt;a href=&#34;http://www.inc.com/minda-zetlin/what-it-costs-to-live-in-the-10-most-expensive-cities-in-america.html&#34;&gt;the most expensive city in the country&lt;/a&gt;, the idea of going all-in on an immersive bootcamp can be a large risk involved mainly whether or not you will even be able to find a job after you graduate. After a lot of thinking, I decided to look into the online bootcamps and that is where Bloc came into play. After reading some &lt;a href=&#34;https://www.coursereport.com/schools/bloc&#34;&gt;reviews&lt;/a&gt; and attending one of their info sessions, I was pretty impressed with their support, curriculum, mentorship and cost all neatly packaged into one course. What also sold me was the pace I could take the course at and the ability to pick my own mentor. For people that have the extra time and want to be able to maximize their time spent in the course, they can take the faster 20 hr/week place and for those like me, who were looking for a lower time commitment had the option to pick a pace at 12 hr/week.&lt;/p&gt;
+
+&lt;h2 id=&#34;so-what-s-it-like-so-far&#34;&gt;So what&amp;rsquo;s it like so far?&lt;/h2&gt;
+
+&lt;p&gt;I am currently ~20% through the curriculum and so far and some of the important qualities that have stood out the most to me are:&lt;/p&gt;
+
+&lt;h3 id=&#34;the-community&#34;&gt;The Community&lt;/h3&gt;
+
+&lt;p&gt;There are countless times where I have been stuck on a checkpoint, or just had a general question about other people&amp;rsquo;s dev environments and everyone has been very willing to help out. Bloc has a slack group that people use quite frequently to post any questions they may have about literally anything and students and/or mentors who are available can just jump in and throw out some advice. This has been useful in the times where your mentor may not be easily available and you are looking for some immediate feedback. I have also used this to coordinate meetups with other students to talk about their track, work together or just grab a beer and relax. I feel that the community also do a pretty good job of helping out other students with connections post-Bloc through a careers channel in Slack, along with the student Facebook group.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-mentorship&#34;&gt;The Mentorship&lt;/h3&gt;
+
+&lt;p&gt;My Mentor, &lt;a href=&#34;https://briandouglas.me/&#34;&gt;Brian&lt;/a&gt;, is one pretty cool dude. I was fortunate enough to have a mentor who lives in the same area as me and not only has he been a significant help when I am either stuck, or just having some motivational dilemmas, he has been supportive all the way. Depending on the pace you have set, you and your mentor will either meet 1 or 2 times per week to discuss your progress. While I will continually update my mentor if I absolutely can&amp;rsquo;t figure out how to progress further on a checkpoint, I usually utilize these 1:1 sessions to go over topics that I didn&amp;rsquo;t understand and to also just talk about better ways to have written the code. While I can&amp;rsquo;t speak for all mentors, Brian attempts to make himself as available as he can and is pretty good about responding back if I have any questions.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-career-support&#34;&gt;The Career Support&lt;/h3&gt;
+
+&lt;p&gt;At this time, I don&amp;rsquo;t have too much insight into this because I haven&amp;rsquo;t gone that far in and am in a unique position at my company to pair this bootcamp along with an internal career path to move into the engineering team. From what I have seen though, there are checkpoints spaced through the curriculum that purposely get you to start thinking about the vertical that you are mosted interested in, along with networking and providing office hours with members of the Bloc&amp;rsquo;s career support team. One other cool thing is that Bloc also offers a &lt;a href=&#34;https://www.bloc.io/faq&#34;&gt;money-back guarantee&lt;/a&gt; if they cannot help you find a job within six-months of graduation. I think this really goes to show that they are willing to help as much as they can with whatever goal you have set in the program.&lt;/p&gt;
+
+&lt;h2 id=&#34;would-you-reccomend-it&#34;&gt;Would you reccomend it?&lt;/h2&gt;
+
+&lt;p&gt;Short answer? Yes, of course! While there are tons of other great options out there, which I would totally encourage, Bloc&amp;rsquo;s program aligned with what I was looking for in a bootcamp and I am pretty content with what I am doing thus far. As I progress through the program, I will make more posts and likely update this article, so stay tuned. If you are interested in learning more, or are interested in trying it out, feel free to drop me a DM on &lt;a href=&#34;https://twitter.com/tophsmcgoats&#34;&gt;Twitter&lt;/a&gt; and I would be happy to chat. Bloc also offers a pretty nice discount that I would be happy to hook you up with as well.&lt;/p&gt;
+
+&lt;p&gt;Happy Coding!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
