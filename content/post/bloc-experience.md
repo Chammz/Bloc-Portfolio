@@ -1,5 +1,5 @@
 +++
-title = "bloc experience"
+title = "Bloc Experience"
 draft = false
 date = "2016-10-31T22:06:31-07:00"
 
