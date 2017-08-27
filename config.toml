@@ -55,7 +55,7 @@ googleAnalytics = "UA-86507992-1"
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "What I can offer"
 
         [[params.services.list]]
             icon = "fa-diamond"
